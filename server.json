@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.splendorize/mcp",
+  "title": "Splendorize",
+  "description": "AI agents that find landing-page improvements, draft experiments and measure the results.",
+  "version": "0.8.0",
+  "websiteUrl": "https://splendorize.com/mcp",
+  "repository": {
+    "url": "https://github.com/splendorize/splendorize-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://splendorize.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.splendorize.com/mcp"
+    }
+  ]
+}

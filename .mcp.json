@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "splendorize": {
+      "type": "http",
+      "url": "https://mcp.splendorize.com/mcp"
+    }
+  }
+}
