@@ -1,0 +1,17 @@
+{
+  "identifier": "splendorize-mcp",
+  "name": "Splendorize",
+  "version": "0.8.0",
+  "description": "AI agents that find landing-page improvements, draft experiments and measure the results.",
+  "author": "Splendorize",
+  "authorUrl": "https://splendorize.com",
+  "homepage": "https://splendorize.com/mcp",
+  "cloudEndpoint": "https://mcp.splendorize.com/mcp",
+  "icon": "https://splendorize.com/icon.svg",
+  "tags": [
+    "landing-pages",
+    "cro",
+    "experiments",
+    "marketing"
+  ]
+}
